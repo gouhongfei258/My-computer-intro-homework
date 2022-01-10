@@ -1,6 +1,4 @@
-Hello
-This is My homework for conputer-intro. 
-Welcome!
-ProblemNeeded is a doc file that ansewrs the questions that my teacher come up with.
-the html is another task 
-
+本仓库包含内容为作者计算机导论的期末大作业
+其中ProblemNeeded.docx文件是用来回答第一个大问题
+homework.html对应第二个大问题
+本次使用的是github，不是gitee
